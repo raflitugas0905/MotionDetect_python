@@ -29,7 +29,7 @@ Instalasi
 
 Clone repository
 
-git clone https://github.com/username/hand-gesture.git
+git clone hhttps://github.com/raflitugas0905/MotionDetect_python/blob/main/handgesture.py
 cd hand-gesture
 
 

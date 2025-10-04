@@ -29,9 +29,11 @@ Instalasi
 
 Clone repository
 
+   
 git clone 
-https://github.com/raflitugas0905/MotionDetect_python/blob/main/handgesture.py
-cd hand-gesture
+
+    https://github.com/raflitugas0905/MotionDetect_python/blob/main/handgesture.py
+    cd hand-gesture
 
 
 Buat virtual environment (opsional)
@@ -43,7 +45,7 @@ venv\Scripts\activate       # Windows
 
 Install dependencies
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 requirements.txt minimal:
@@ -51,8 +53,9 @@ requirements.txt minimal:
 opencv-python
 mediapipe
 
-Cara Menjalankan
-python gesture_recognition.py
+Cara Jalankan
+  
+    python gesture_recognition.py
 
 
 Tekan q untuk keluar.
@@ -74,9 +77,9 @@ Bisa di-extend untuk gesture lebih banyak dengan menambahkan kondisi di fungsi r
 
 Stabil di Linux/Ubuntu, Windows, dan macOS.
 
-Kontributor
+    Kontributor
 
-Rafli Tri Hanafi – Developer & Penulis Script
+    Rafli Tri Hanafi – Developer & Penulis Script
 
 Lisensi
 
